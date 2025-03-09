@@ -8,7 +8,8 @@ Check out the live demo here: [Doraemon Eyes Follow Mouse Cursor](https://euphon
 
 ## Screenshot
 
-https://github.com/user-attachments/assets/cd10d4ea-2f77-4713-b105-b40903cf3687
+![image](https://github.com/user-attachments/assets/29844610-4c83-4987-b3df-876fd151c195)
+
 
 ## Features
 
